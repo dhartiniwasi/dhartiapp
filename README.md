@@ -74,3 +74,13 @@ This section provides various videos, from Youtube , the biggest trusted platfor
 
 
 </details>
+
+<details>
+<summmary>Google Services and Products used </summmary>
+ We have used Firebase and Youtube by Google.
+ Using Firebase, our user's data stays secure and encrypted.
+In future, when we will add a **User Sign Up** page,we will make most use of it .
+ We have embedded Youtube videos in our app, as a source of learning and skill development for our famrers.
+</details>
+
+## Thank you !
