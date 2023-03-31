@@ -1,0 +1,22 @@
+package p060h4;
+
+import android.os.IBinder;
+import android.os.Parcel;
+import android.os.RemoteException;
+import com.google.android.gms.internal.ads.C2847sh;
+import com.google.android.gms.internal.ads.C2958vh;
+
+/* renamed from: h4.b2 */
+/* compiled from: com.google.android.gms:play-services-ads-lite@@21.3.0 */
+public final class C4479b2 extends C2847sh implements C4491d2 {
+    C4479b2(IBinder iBinder) {
+        super(iBinder, "com.google.android.gms.ads.internal.client.IOnPaidEventListener");
+    }
+
+    /* renamed from: l2 */
+    public final void mo18018l2(C4583s4 s4Var) throws RemoteException {
+        Parcel p = mo14006p();
+        C2958vh.m22236e(p, s4Var);
+        mo14003P0(1, p);
+    }
+}

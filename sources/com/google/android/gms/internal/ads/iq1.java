@@ -1,0 +1,25 @@
+package com.google.android.gms.internal.ads;
+
+/* compiled from: com.google.android.gms:play-services-ads@@21.3.0 */
+public final class iq1 implements b44 {
+
+    /* renamed from: a */
+    private final o44 f10908a;
+
+    /* renamed from: b */
+    private final o44 f10909b;
+
+    /* renamed from: c */
+    private final o44 f10910c;
+
+    public iq1(o44 o44, o44 o442, o44 o443) {
+        this.f10908a = o44;
+        this.f10909b = o442;
+        this.f10910c = o443;
+    }
+
+    /* renamed from: d */
+    public final /* bridge */ /* synthetic */ Object mo8155d() {
+        return new hq1(((m61) this.f10908a).mo12286a(), (sl1) this.f10909b.mo8155d(), ((rm1) this.f10910c).mo13852a());
+    }
+}

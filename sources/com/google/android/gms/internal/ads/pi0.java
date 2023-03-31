@@ -1,0 +1,17 @@
+package com.google.android.gms.internal.ads;
+
+import android.os.IInterface;
+import android.os.RemoteException;
+import p060h4.C4623z2;
+
+/* compiled from: com.google.android.gms:play-services-ads-lite@@21.3.0 */
+public interface pi0 extends IInterface {
+    /* renamed from: c */
+    void mo8833c() throws RemoteException;
+
+    /* renamed from: l */
+    void mo8834l(C4623z2 z2Var) throws RemoteException;
+
+    /* renamed from: n */
+    void mo8835n(int i) throws RemoteException;
+}

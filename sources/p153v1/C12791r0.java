@@ -1,0 +1,20 @@
+package p153v1;
+
+import android.database.sqlite.SQLiteDatabase;
+import p153v1.C5779t0;
+
+/* renamed from: v1.r0 */
+/* compiled from: R8$$SyntheticClass */
+public final /* synthetic */ class C12791r0 implements C5779t0.C5780a {
+
+    /* renamed from: a */
+    public static final /* synthetic */ C12791r0 f46799a = new C12791r0();
+
+    private /* synthetic */ C12791r0() {
+    }
+
+    /* renamed from: a */
+    public final void mo20289a(SQLiteDatabase sQLiteDatabase) {
+        C5779t0.m34497n(sQLiteDatabase);
+    }
+}

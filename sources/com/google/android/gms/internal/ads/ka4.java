@@ -1,0 +1,21 @@
+package com.google.android.gms.internal.ads;
+
+/* compiled from: com.google.android.gms:play-services-ads@@21.3.0 */
+public final /* synthetic */ class ka4 implements in1 {
+
+    /* renamed from: a */
+    public final /* synthetic */ m84 f11985a;
+
+    /* renamed from: b */
+    public final /* synthetic */ ny3 f11986b;
+
+    public /* synthetic */ ka4(m84 m84, ny3 ny3) {
+        this.f11985a = m84;
+        this.f11986b = ny3;
+    }
+
+    /* renamed from: b */
+    public final void mo8224b(Object obj) {
+        ((o84) obj).mo11216d(this.f11985a, this.f11986b);
+    }
+}
